@@ -1,0 +1,4 @@
+root:x:0:0:root:/root:/bin/bash
+michelle:thisismypasswd:1:-1:comment:/home/michelle:/bin/bash
+nobody:*:-1:0:Unprivileged User:/var/empty:/usr/bin/false
+hello:*:-2:-2:System Administrator:/var/root:/bin/sh

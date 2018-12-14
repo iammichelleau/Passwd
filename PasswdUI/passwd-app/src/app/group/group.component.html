@@ -1,0 +1,12 @@
+<div>
+    <h2>
+      Group Service
+    </h2>
+    <label>GET
+      <input style="width: 400px" #groupContent value="http://localhost:41177/api/groups" />
+    </label>
+    <button (click)="submit(groupContent.value);">
+      Submit
+    </button>
+  </div>
+  <label>Response: {{this.response}}</label>

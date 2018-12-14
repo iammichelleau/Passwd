@@ -1,0 +1,11 @@
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\bin\Debug\netcoreapp2.0\PasswdApi.deps.json
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\bin\Debug\netcoreapp2.0\PasswdApi.runtimeconfig.json
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\bin\Debug\netcoreapp2.0\PasswdApi.runtimeconfig.dev.json
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\bin\Debug\netcoreapp2.0\PasswdApi.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\obj\Debug\netcoreapp2.0\PasswdApi.csprojAssemblyReference.cache
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\obj\Debug\netcoreapp2.0\PasswdApi.csproj.CoreCompileInputs.cache
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\obj\Debug\netcoreapp2.0\PasswdApi.AssemblyInfoInputs.cache
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\obj\Debug\netcoreapp2.0\PasswdApi.AssemblyInfo.cs
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\bin\Debug\netcoreapp2.0\PasswdApi.pdb
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\obj\Debug\netcoreapp2.0\PasswdApi.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi\PasswdApi\obj\Debug\netcoreapp2.0\PasswdApi.pdb

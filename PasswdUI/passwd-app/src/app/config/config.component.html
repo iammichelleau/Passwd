@@ -1,0 +1,12 @@
+<div>
+  <h2>
+    Configuration Service
+  </h2>
+  <label>Enter path to the passwd and groups file:
+    <input style="width: 400px" #configContent value="C:\etc" />
+  </label>
+  <button (click)="submit(configContent.value);">
+    Submit
+  </button>
+</div>
+<label>Response: {{this.response}}</label>

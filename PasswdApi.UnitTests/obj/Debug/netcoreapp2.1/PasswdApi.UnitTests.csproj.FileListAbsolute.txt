@@ -1,0 +1,17 @@
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\PasswdApi.UnitTests.deps.json
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\PasswdApi.UnitTests.runtimeconfig.json
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\PasswdApi.UnitTests.runtimeconfig.dev.json
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\PasswdApi.UnitTests.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\obj\Debug\netcoreapp2.1\PasswdApi.UnitTests.csprojAssemblyReference.cache
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\obj\Debug\netcoreapp2.1\PasswdApi.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\obj\Debug\netcoreapp2.1\PasswdApi.UnitTests.AssemblyInfoInputs.cache
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\obj\Debug\netcoreapp2.1\PasswdApi.UnitTests.AssemblyInfo.cs
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\PasswdApi.UnitTests.pdb
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\obj\Debug\netcoreapp2.1\PasswdApi.UnitTests.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\obj\Debug\netcoreapp2.1\PasswdApi.UnitTests.pdb
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\PasswdApi.dll
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\bin\Debug\netcoreapp2.1\PasswdApi.pdb
+C:\Users\ma108137\Documents\Sandbox\Passwd\PasswdApi.UnitTests\obj\Debug\netcoreapp2.1\PasswdApi.UnitTests.csproj.CopyComplete

@@ -1,0 +1,4 @@
+nobody:*:-2:hello,root
+nogroup:*:-1:michelle
+wheel:*:0:root
+daemon:*:1:root

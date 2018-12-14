@@ -1,0 +1,12 @@
+<div>
+    <h2>
+      User Service
+    </h2>
+    <label>GET
+      <input style="width: 400px" #userContent value="http://localhost:41177/api/users" />
+    </label>
+    <button (click)="submit(userContent.value);">
+      Submit
+    </button>
+  </div>
+  <label>Response: {{this.response}}</label>
