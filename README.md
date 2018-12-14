@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Running the Application
 
 - Clone the repo https://github.com/iammichelleau/Passwd.git. 
-- Running the UIs
+- Running the UI
     - Change directory to:
         `PasswdUI/passwd-app`.
     - Run the following command: 
